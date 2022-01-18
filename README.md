@@ -15,7 +15,7 @@
 ### Languages and Tools    
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=plastic&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=plastic&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-090909?style=plastic&logo=Sass)
+![Scss](https://img.shields.io/badge/-Scss-090909?style=plastic&logo=Sass)
 ![JS](https://img.shields.io/badge/-JS-090909?style=plastic&logo=javascript) 
 ![VUE](https://img.shields.io/badge/-Vue-090909?style=plastic&logo=vue.js) 
 ![React](https://img.shields.io/badge/-React-090909?style=plastic&logo=react)

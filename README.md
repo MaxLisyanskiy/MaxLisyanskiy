@@ -1,4 +1,4 @@
-# Hey there, I'm **Max Lisyanskiy**! 👋
+# Hi there, I'm **Max Lisyanskiy**! 👋
 
 <img align="right" alt="GIF"  src="https://media.giphy.com/media/l0MYzwTebntNEii4M/giphy.gif" />
 

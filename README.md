@@ -3,15 +3,14 @@
 <img align="right" alt="GIF"  src="https://media.giphy.com/media/l0MYzwTebntNEii4M/giphy.gif" />
 
 #### Connect with me:
-<a href="https://vk.com/maxlisyanskiy" target="_blank"><img height="35px" src="https://camo.githubusercontent.com/26be819fcce90f75668efeb7a432b969dcc35a1e4478149c3fcd48fda5b457c3/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f766b2e737667" alt="Vk"></a>   <a href="https://t.me/MaxLisyanskiy" target="_blank"><img height="35px" src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" alt="Telegram"></a>  <!-- <a href="https://www.linkedin.com/in/%D0%B2%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D0%B9-%D1%80%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B8%D0%BD-b3b470207/" target="_blank"><img height="35px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="Linkedin"></a>  --><a href="mailto:kinjeks@gmail.com" target="_blank"><img height="35px" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" alt="Gmail"></a><a href="mailto:max_lisyanskiy@mail.ru" target="_blank"><img height="35px" src="https://play-lh.googleusercontent.com/YpAV7Q-ZJhI5tzFk_wEX-7-x2BydtnCtFTVUrmq0zAO6jLCLA4nNcfem3p_Pyowg9w" alt="HH.ru" ></a>  
+<a href="https://vk.com/maxlisyanskiy" target="_blank"><img height="35px" src="https://camo.githubusercontent.com/26be819fcce90f75668efeb7a432b969dcc35a1e4478149c3fcd48fda5b457c3/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f766b2e737667" alt="Vk"></a>   <a href="https://t.me/MaxLisyanskiy" target="_blank"><img height="35px" src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" alt="Telegram"></a><a href="mailto:max_lisyanskiy@mail.ru" target="_blank"><img height="35px" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" alt="mail"></a><a href="https://spb.hh.ru/resume/61a2d302ff07fe62460039ed1f554542734272" target="_blank"><img height="35px" src="https://play-lh.googleusercontent.com/YpAV7Q-ZJhI5tzFk_wEX-7-x2BydtnCtFTVUrmq0zAO6jLCLA4nNcfem3p_Pyowg9w" alt="HH.ru" ></a>  
 
 ## About Me
 🏠 I'm pre-middle **Front-end Developer**  living in **Saint-Petersburg**.   
 ⭐  I'm currently learning **TypeScript** and **React**   
 ❤️ And I enjoy making  beautiful web sites on **HTML**,**CSS** and **JavaScript** 
 
-<!--  ## [Check my Portfolio](https://virybalkin.github.io/MyPortfolio/dist/) -->
- ## [Check my Portfolio] (in developing)
+## [Check my Portfolio](https://maxlisyanskiy.github.io/portfolio/)
 
 ### Languages and Tools    
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=plastic&logo=html5)

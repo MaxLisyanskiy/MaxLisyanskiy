@@ -1,22 +1,14 @@
 <img src="./assets/github_readme_banner.png" alt="in-icon">
 
 <div align="center">
-    <h2>Connect with me:</h2>
-    <a href="https://www.linkedin.com/in/maksim-lisianskii/" target="_blank" style="text-decoration: none !important;">
-        <img src="./assets/icon-connect/in.jpg" alt="in-icon" >
-    </a>
-    <a href="https://t.me/MaxLisyanskiy" target="_blank" style="text-decoration: none !important;">
-        <img src="./assets/icon-connect/tg.png" alt="tg-icon">
-    </a> 
-    <a href="https://vk.com/maxlisyanskiy" target="_blank" style="text-decoration: none !important;">
-        <img src="./assets/icon-connect/vk.png" alt="vk-icon">
-    </a> 
-    <a href="https://spb.hh.ru/resume/61a2d302ff07fe62460039ed1f554542734272" target="_blank" style="text-decoration: none !important;">
-        <img src="./assets/icon-connect/hh.png" alt="hh-icon">
-    </a> 
-    <a href="mailto:max_lisyanskiy@mail.ru" target="_blank" style="text-decoration: none !important;">
-        <img src="./assets/icon-connect/mail.png" alt="mail-icon">
-    </a> 
+    <h3>Connect with me:</h3>
+
+<a href="https://www.linkedin.com/in/maksim-lisianskii/" target="_blank">![in-icon](/assets/icon-connect/in.png)</a>
+<a href="https://t.me/MaxLisyanskiy" target="_blank">![tg-icon](/assets/icon-connect/tg.png)</a>
+<a href="https://vk.com/maxlisyanskiy" target="_blank">![vk-icon](/assets/icon-connect/vk.png)</a>
+<a href="https://spb.hh.ru/resume/61a2d302ff07fe62460039ed1f554542734272" target="_blank">![hh-icon](/assets/icon-connect/hh.png)</a>
+<a href="mailto:max_lisyanskiy@mail.ru" target="_blank">![mail-icon](/assets/icon-connect/mail.png)</a>
+
 </div>
 
 ## About Me

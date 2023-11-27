@@ -1,5 +1,4 @@
-<!-- <img src="./assets/github_readme_banner.png" alt="in-icon"> -->
-<img src="./assets/main-banner.png" alt="in-icon">
+<img src="./assets/main-profile-banner.png" alt="in-icon">
 
 <div align="center">
     <h3>Connect with me:</h3>

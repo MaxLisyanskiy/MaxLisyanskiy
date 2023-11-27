@@ -3,7 +3,7 @@
 <div align="center">
     <h2>Connect with me:</h2>
     <a href="https://www.linkedin.com/in/maksim-lisianskii/" target="_blank">
-        <img src="./assets/icon-connect/in.png" alt="in-icon">
+        <img src="./assets/icon-connect/in.svg" alt="in-icon">
     </a>
     <a href="https://t.me/MaxLisyanskiy" target="_blank">
         <img src="./assets/icon-connect/tg.png" alt="tg-icon">

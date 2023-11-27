@@ -3,7 +3,7 @@
 <div align="center">
     <h3>Connect with me:</h3>
 
-<a href="https://www.linkedin.com/in/maksim-lisianskii/" target="_blank">![in-icon](/assets/icon-connect/in.png)</a>
+<a href="https://www.linkedin.com/in/maksim-lisianskii/" target="_blank">![in-icon](/assets/icon-connect/linkedin.png)</a>
 <a href="https://t.me/MaxLisyanskiy" target="_blank">![tg-icon](/assets/icon-connect/tg.png)</a>
 <a href="https://vk.com/maxlisyanskiy" target="_blank">![vk-icon](/assets/icon-connect/vk.png)</a>
 <a href="https://spb.hh.ru/resume/61a2d302ff07fe62460039ed1f554542734272" target="_blank">![hh-icon](/assets/icon-connect/hh.png)</a>
